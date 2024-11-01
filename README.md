@@ -13,5 +13,3 @@ If you think I would be a good fit for your projects, I would be happy to hear f
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=preston-jones&theme=default_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=preston-jones&theme=default_border=true)<br/>
-
----
