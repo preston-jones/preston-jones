@@ -1,7 +1,7 @@
 
-<p align="center"><a href="https://prestonjones.dev"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://prestonjones.dev"><img width="80%" alt="Hello, I'm Preston. I do open source!" src="./gh-readme-header.png" /></a></p>
 
-passionated frontend developer from Germany with a focus on clean code and best practices. My strengths lie in Angular, TypeScript, JavaScript, HTML, and CSS.
+a passionate frontend developer from Germany with a focus on clean code and best practices. My strengths lie in Angular, TypeScript, JavaScript, HTML, and CSS.
 
 I am dedicated to developing efficient and well-architected solutions to build dynamic and modern business applications that prioritize sustainability, scalability, and user-friendly interfaces.
 
@@ -14,12 +14,3 @@ If you think I'd be a great fit for your projects, I look forward to hearing fro
 
 | <a href="https://github.com/preston-jones/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=preston-jones&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Preston's github stats" /></a> | <a href="https://github.com/preston-jones/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-jones&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
