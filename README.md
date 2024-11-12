@@ -1,5 +1,5 @@
-# Hello! I'm Preston
-<p align="center"><a href="https://prestonjones.dev"><img width="80%" alt="Hello, I'm Preston" src="./readme-header.png" /></a></p>
+## Hello! I'm Preston
+<p align="center"><a href="https://prestonjones.dev"><img width="100%" alt="Hello, I'm Preston" src="./readme-header.png" /></a></p>
 
 I'm a passionate frontend developer from Germany with a focus on clean code and best practices. My strengths lie in Angular, TypeScript, JavaScript, HTML, and CSS.
 
