@@ -1,11 +1,11 @@
-## Hello! I'm Preston
+## Hello, I'm Preston,
 <p align="center"><a href="https://prestonjones.dev"><img width="100%" alt="Hello, I'm Preston" src="./readme-header.png" /></a></p>
 
-I'm a passionate frontend developer from Germany with a focus on clean code and best practices. My strengths lie in Angular, TypeScript, JavaScript, HTML, and CSS.
+A passionate Frontend Developer who believes that we are laying the digital foundation for the generations of tomorrow.<br>
+My goal? To actively shape digitalization with innovative and sustainable solutions.<br>
+With technologies like Angular, TypeScript, and JavaScript, I develop dynamic and scalable applications, always with a clear focus on Clean Code and Best Practices.<br>
 
-I am dedicated to developing efficient and well-architected solutions to build dynamic and modern business applications that prioritize sustainability, scalability, and user-friendly interfaces.
-
-If you think I'd be a great fit for your projects, I look forward to hearing from you.
+Do you have digital ideas or exciting projects you'd like to bring to life? I look forward to hearing from you.
 
 <br>
 
